@@ -4,7 +4,8 @@ Este proyecto forma parte de mi camino de aprendizaje en desarrollo web. Consist
 
 ## 📌 Créditos y Origen
 Este código está basado en  **diferentes proyectos**.
-* **Repositorio Original Nazia 99:** [Enlace al repo original](https://github.com/Nazia-99/Glassmorphism-Login-Form-in-HTML-CSS)
+* **Repositorio Original Nazia 99 (loginglass):** [Enlace al repo original](https://github.com/Nazia-99/Glassmorphism-Login-Form-in-HTML-CSS)
+* **Repositorio Original Nazia 99 (progress-button-animated):** [Enlace al repo original](https://github.com/Nazia-99/Animated-Progress-Button/tree/main)
 * **Tutorial / Fuente:** [Enlace al video o artículo](URL_AQUÍ)
 
 ## 🛠️ Tecnologías Utilizadas

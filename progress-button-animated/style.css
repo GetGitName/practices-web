@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background: #f8f7fc;
+    font-family: "Plus Jakarta Sans",sans-serif;
+} 
+
+main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-area {   
+    position: relative;
+    width: 212px;
+    height: 62px;
+}
+
+.btn-area:hover .main-btn {
+    opacity: .25;
+}
+
+.main-btn {
+    width: 100%;
+    height: 100%;
+    opacity: .15;
+    transition: .25s;
+}
+
+.main-btn rect {
+    width: 210px;
+    height: 60px;
+    transition: .25s;
+}
+
+.progress-area, .complete-area {
+    position: absolute;
+    inset: 50% auto auto 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #1578ff;
+    user-select: none;
+}
+
+.area-left {
+    display: flex;
+}
+
+.area-left svg {
+    margin-right: 1rem;
+    opacity: 0;
+}
+
+.area-left span {
+    width: 50px;
+    text-align: right;
+}
+
+.area-right {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 20px;
+    margin-right: -1rem;
+    padding-left: 1rem;
+    border-left: 1px solid #1578ff44;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.area-right:hover {
+    height: 40px;
+    transition: .25s;
+}
+
+.area-right:hover svg {
+    opacity: 1;
+}
+
+.area-right svg {
+    opacity: .5;
+    transition: .25s;
+}
+
+.btn-play {
+    position: absolute;
+    transform: translateY(40px);
+}
+
+.complete-area {
+    display: none;
+    justify-content: space-around;
+}
+
+.complete-area svg {
+    width: 40px;
+    height: 20px;
+    margin-right: 1rem;
+    padding-right: 1rem;
+    border-right: 1px solid #fff6;
+}
+
+.complete-area svg path {
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 6px;
+    opacity: 0;
+}
+
+.complete-area span {
+    color: #fffd;
+    padding-bottom: 1px;
+    opacity: 0;
+}
+
+.frame-btn {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100Px;
+}
+
+.frame-btn rect {
+    width: 210px;
+    height: 60px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
