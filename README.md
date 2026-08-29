@@ -3,8 +3,8 @@
 Este proyecto forma parte de mi camino de aprendizaje en desarrollo web. Consiste en la réplica, análisis y mejora de un proyecto ya existente para fortalecer mis habilidades técnicas.
 
 ## 📌 Créditos y Origen
-Este código está basado en el proyecto original de **[Nombre del Autor/Canal]**.
-* **Repositorio Original:** [Enlace al repo original](URL_AQUÍ)
+Este código está basado en  **diferentes proyectos**.
+* **Repositorio Original Nazia 99:** [Enlace al repo original](https://github.com/Nazia-99/Glassmorphism-Login-Form-in-HTML-CSS)
 * **Tutorial / Fuente:** [Enlace al video o artículo](URL_AQUÍ)
 
 ## 🛠️ Tecnologías Utilizadas
