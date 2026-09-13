@@ -7,7 +7,9 @@ Este código está basado en  **diferentes proyectos**.
 * **Repositorio Original Nazia 99 (loginglass):** [Enlace al repo original](https://github.com/Nazia-99/Glassmorphism-Login-Form-in-HTML-CSS)
 * **Repositorio Original Nazia 99 (progress-button-animated):** [Enlace al repo original](https://github.com/Nazia-99/Animated-Progress-Button/tree/main)
 * **Repositorio Original Takagi Dev (pixel-sipiderman):** [Enlace al repo original](https://github.com/Takagi-Dev-content/Contents-Code/tree/main)
+* **Repositorio Original Takagi Dev (pricing-table):** [Enlace al repo original](https://github.com/Nazia-99/Pricing-Table)
 * **Tutorial / Fuente:** [Enlace al video o artículo](URL_AQUÍ)
+
 
 ## 🛠️ Tecnologías Utilizadas
 * **Frontend:** HTML5, CSS3, JavaScript (ES6)
