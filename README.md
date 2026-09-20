@@ -8,6 +8,7 @@ Este código está basado en  **diferentes proyectos**.
 * **Repositorio Original Nazia 99 (progress-button-animated):** [Enlace al repo original](https://github.com/Nazia-99/Animated-Progress-Button/tree/main)
 * **Repositorio Original Takagi Dev (pixel-sipiderman):** [Enlace al repo original](https://github.com/Takagi-Dev-content/Contents-Code/tree/main)
 * **Repositorio Original Takagi Dev (pricing-table):** [Enlace al repo original](https://github.com/Nazia-99/Pricing-Table)
+* **Repositorio Original Edgar Romero Dev (inventario):** [Enlace al repo original](https://github.com/edgarromerodev/inventario)
 * **Tutorial / Fuente:** [Enlace al video o artículo](URL_AQUÍ)
 
 
