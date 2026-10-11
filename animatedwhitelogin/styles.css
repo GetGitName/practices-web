@@ -13,7 +13,8 @@ body {
     justify-content: center;
     align-items: center;
     background: #e7ebf0;
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
     scrollbar-width: 0.7;
 }
 
