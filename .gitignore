@@ -1,0 +1,43 @@
+# Dependencias
+node_modules/
+bower_components/
+
+# Artefactos de compilación y pruebas
+dist/
+build/
+coverage/
+.next/
+.nuxt/
+.output/
+
+# Variables de entorno (mantener plantillas de ejemplo)
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Registros y archivos temporales
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tmp
+*.temp
+
+# Cachés
+.cache/
+.parcel-cache/
+.vite/
+.eslintcache
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Configuración local de editores/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
